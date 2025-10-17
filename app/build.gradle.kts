@@ -35,7 +35,7 @@ android {
 }
 
 dependencies {
-    implementation(files("D:/C_backup/24228/AppData/Local/Android/Sdk/platforms/android-36/android.jar"))
+    implementation(files("D:\\C_backup\\24228\\AppData\\Local\\Android\\Sdk\\platforms\\android-36\\android.jar"))
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
